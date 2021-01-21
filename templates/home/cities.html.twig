@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% for city in cities %}
+        <li>{{ city }}</li>
+    {% endfor %}
+
+<a href="{{ path('home_index') }}">retour</a>
+
+{% endblock %}
+
+{% block title %}
+
+{% endblock %}
+

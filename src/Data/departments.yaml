@@ -1,0 +1,13 @@
+- { region_id: 1 , name: "Ariège", code: "09", upper_name:  "ARIÈGE", slug: "ariege"}
+- { region_id: 1 , name: "Aude", code: "11", upper_name:  "AUDE", slug: "aude"}
+- { region_id: 1 , name: "Aveyron", code: "12", upper_name:  "AVEYRON", slug: "aveyron"}
+- { region_id: 1 , name: "Gard", code: "30", upper_name:  "GARD", slug: "gard"}
+- { region_id: 1 , name: "Haute-Garonne", code: "31", upper_name:  "HAUTE-GARONNE", slug: "haute-garonne"}
+- { region_id: 1 , name: "Gers", code: "32", upper_name:  "GERS", slug: "gers"}
+- { region_id: 1 , name: "Hérault", code: "34", upper_name:  "HÉRAULT", slug: "herault"}
+- { region_id: 1 , name: "Lot", code: "46", upper_name:  "LOT", slug: "lot"}
+- { region_id: 1 , name: "Lozère", code: "48", upper_name:  "LOZÈRE", slug: "lozere"}
+- { region_id: 1 , name: "Hautes-Pyrénées", code: "65", upper_name:  "HAUTES-PYRÉNÉES", slug: "hautes-pyrenees"}
+- { region_id: 1 , name: "Pyrénées-Orientales", code: "66", upper_name:  "PYRÉNÉES-ORIENTALES", slug: "pyrenees-orientales"}
+- { region_id: 1 , name: "Tarn", code: "81", upper_name:  "TARN", slug: "tarn"}
+- { region_id: 1 , name: "Tarn-et-Garonne", code: "82", upper_name:  "TARN-ET-GARONNE", slug: "tarn-et-garonne"}
